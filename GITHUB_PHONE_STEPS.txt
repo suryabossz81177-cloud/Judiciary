@@ -1,0 +1,10 @@
+1. Create a GitHub repository named JudiciaryExplorer.
+2. Extract this ZIP.
+3. Upload ALL files/folders from inside the extracted folder to the repository ROOT.
+4. Make sure .github/workflows/build-apk.yml is uploaded too.
+5. Open repository > Actions > Build Judiciary Explorer APK.
+6. Tap Run workflow > Run workflow.
+7. Wait for a green check.
+8. Open the completed run and download artifact JudiciaryExplorer-APK.
+9. Extract the artifact ZIP to get app-debug.apk.
+10. Install/share app-debug.apk.
