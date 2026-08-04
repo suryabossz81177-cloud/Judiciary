@@ -6,6 +6,7 @@
     <application
         android:theme="@style/AppTheme"
         android:label="Judiciary Explorer"
+        android:icon="@drawable/judiciary"
         android:usesCleartextTraffic="true">
 
         <activity
